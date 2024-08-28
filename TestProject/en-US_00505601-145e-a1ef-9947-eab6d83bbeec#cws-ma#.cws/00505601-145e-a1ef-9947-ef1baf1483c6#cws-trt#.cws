@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-145e-a1ef-9947-ef1baf2603c6">
+	<DocumentID>00505601-145e-a1ef-9947-ef1baf1483c6</DocumentID>
+	<Name>00505601-145e-a1ef-9947-ef1baf1483c6</Name>
+	<Description>HPL</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2024-08-28T09:28:31.74</CreationDate>
+	<Notes/>
+	<Text>HPL</Text>
+	<Language>
+		<uri
+			id="00505601-145e-a1ef-9947-eab6d7da3eec"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-145e-a1ef-9947-ef1baef683c6"
+		/>
+	</TextIdentifier>
+</TranslatedText>
